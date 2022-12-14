@@ -11,7 +11,7 @@ To change the colors go to "progressBar.html" file and update the following:
 
 !!!!!! DO NOT CHANGE ANYTHING FROM client.lua FOR THIS TO WORK !!!!!!
 
-when the program is used, the resmon stays at 0.00.
-when the program isn't used, the resmon syats at 0.00.
+when the program is used, the resmon stays at 0.01.
+when the program isn't used, the resmon stays at 0.00.
 
 
